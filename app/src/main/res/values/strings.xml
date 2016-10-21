@@ -15,4 +15,5 @@
         <item>Restore Deafaults</item>
         <item>FAQs</item>
     </string-array>
+    <string name="title_activity_dialog_box">DialogBox</string>
 </resources>
